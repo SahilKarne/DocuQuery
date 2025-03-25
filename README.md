@@ -37,8 +37,8 @@ Ensure you have Python installed (version 3.8+ recommended).
 
 ### 🛠️ Clone the Repository
 ```bash
-git clone https://github.com/your-repo/docuquery.git
-cd docuquery
+git clone https://github.com/SahilKarne/DocuQuery.git
+cd DocuQuery
 ```
 ---
 
