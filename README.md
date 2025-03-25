@@ -26,7 +26,6 @@
   - `pandas` for data handling
   - `matplotlib` for data visualization
   - `google.generativeai` for AI-powered responses
-  - `FAISS` for efficient embedding retrieval
 ---
 
 ## 🔧 Installation
