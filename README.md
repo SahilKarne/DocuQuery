@@ -88,10 +88,3 @@ streamlit run app.py
 ### 📝 View Chat History
 Scroll to the bottom of the page to see previous queries and responses.
 ---
-
-## 👥 Collaborators
-- Sahil Karne
-- Kartikey Sapkal
-- Siddhesh Kotwal
-- Sachin Jadhav
----
